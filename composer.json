@@ -52,9 +52,6 @@
   "require-dev": {
     "muhammadaldan/omnipay8-tests": "dev-master"
   },
-  "suggest": {
-    "league/omnipay": "The default Omnipay package provides a default HTTP Adapter."
-  },
   "scripts": {
     "test": "phpunit",
     "check-style": "phpcs -p --standard=PSR2 src/",
